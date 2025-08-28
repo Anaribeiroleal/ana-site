@@ -9,4 +9,18 @@ padding: 20px;
 font-size: 33px;
 }  
 
+section{
+  background:blue ;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  display: flex;
+  justify-content: center;
+}
 
+div {
+  margin-right: 20px;
+}
+
+.chamada-texto {
+  margin-right: 50%;
+}
