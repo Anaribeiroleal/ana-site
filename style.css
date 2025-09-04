@@ -1,26 +1,26 @@
 body{
-  color:  aliceblue; 
-  background: #789db9;
+  color:  rgb(0, 0, 0) ;
+  background: rgb(154 203 233);
+  margin: 0px;
+  font-family: "Shantell Sans", cursive;
 }
+
+p{ text-align: start;}
 
 header {
   border-bottom:solid 2px white;
-padding: 20px;
-font-size: 33px;
+padding: 10px;
+font-size: 45px;
 }  
 
 section{
-  background:blue ;
+  background:rgb(54 139 191);
   padding-bottom: 20px;
   padding-top: 20px;
   display: flex;
   justify-content: center;
 }
 
-div {
-  margin-right: 20px;
-}
-
-.chamada-texto {
-  margin-right: 50%;
+div{
+  margin-right: 550px;
 }
