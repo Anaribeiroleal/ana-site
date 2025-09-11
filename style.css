@@ -2,7 +2,7 @@ body{
   color:  rgb(0, 0, 0) ;
   background: rgb(154 203 233);
   margin: 0px;
-  font-family: "Ga Maamli", sans-serif;
+  font-family: "Trade Winds", system-ui;
 } 
 
 p{ text-align: start;}
@@ -23,4 +23,5 @@ section{
 
 div{
   margin-right: 550px;
+  font-size: 30px;
 }
