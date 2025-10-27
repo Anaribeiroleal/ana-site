@@ -3,6 +3,7 @@ body{
   background: rgb(154 203 233);
   margin: 0px;
   font-family: "Trade Winds", system-ui;
+  margin-bottom: 100px;
 } 
 
 p{ text-align: start;}
@@ -27,12 +28,6 @@ div{
 
 }
 
-img{
-height:150px;
-
-}
-
-
 .categoria-videos{
 display: flex;
 overflow-x: auto;
@@ -43,11 +38,15 @@ gap: 10px;
 .categoria{
 padding-left: 20px;
 padding-right: 20px;
+margin-top: 50px;
 }
 
 .categoria-videos img{
-opacity: 0,5;
-
-
+opacity: 0.5;
+height:150px;
+}
+.categoria-video img:hover {
+opacity: 1.0;
+border: 1px solid rgb(26, 26, 71)
 
 }
